@@ -1,0 +1,364 @@
+body
+{
+    background-color: #D3D3D3;
+    margin:0;
+    font-family: 'Lato', sans-serif;
+    
+}
+
+#wrapper
+{
+    width: 1100px;
+    margin:0 auto;
+    padding:0px;
+    background-color:rgb(211,211,211,0.5);
+    
+}
+
+#header
+{
+    margin:0;
+    padding:0px;
+    background-color:black;
+    min-height: 110px;
+}
+
+#pretraga input[type=text] {
+    width: 200px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('img/searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+#pretraga input[type=text]:focus {
+    width: 100%;
+}
+
+#pretraga
+{
+    padding: 26px;
+    width:350px;
+    float:left;
+}
+
+#logo
+{
+    color:white;
+    font-size: 40px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Lato:900);
+*, *:before, *:after{
+  box-sizing:border-box;
+}
+
+#foo
+{
+  padding-top:10px;
+  width:450px;
+  float:left;
+}
+.letter{
+  display: inline-block;
+  font-weight: 800;
+  font-size: 70px;
+  position: relative;
+  color: #00B4F1;
+  transform-style: preserve-3d;
+  perspective: 400;
+  z-index: 1;
+}
+.letter:before, .letter:after{
+  position:absolute;
+  content: attr(data-letter);
+  transform-origin: top left;
+  top:0;
+  left:0;
+}
+.letter, .letter:before, .letter:after{
+  transition: all 0.3s ease-in-out;
+}
+.letter:before{
+  color: #fff;
+  text-shadow: 
+    -1px 0px 1px rgba(255,255,255,.8),
+    1px 0px 1px rgba(0,0,0,.8);
+  z-index: 3;
+  transform:
+    rotateX(0deg)
+    rotateY(-15deg)
+    rotateZ(0deg);
+}
+.letter:after{
+  color: rgba(0,0,0,.11);
+  z-index:2;
+  transform:
+    scale(1.08,1)
+    rotateX(0deg)
+    rotateY(0deg)
+    rotateZ(0deg)
+    skew(0deg,1deg);
+}
+.letter:hover:before{
+  color: #fafafa;
+  transform:
+    rotateX(0deg)
+    rotateY(-40deg)
+    rotateZ(0deg);
+}
+.letter:hover:after{
+  transform:
+    scale(1.08,1)
+    rotateX(0deg)
+    rotateY(40deg)
+    rotateZ(0deg)
+    skew(0deg,22deg);
+}
+
+#korpa
+{
+    float:right;
+     padding:25px;
+     padding-left:0;
+}
+
+#korpa img
+{
+    width:50px;
+    height:50px;
+    
+   
+}
+
+#korpica
+{
+    color:white;
+    font-size: 17px;
+    padding-left:5px;
+    padding-top: 40px;
+    width: 220px;
+    float:left;
+    
+}
+
+#nav
+{
+    margin:0;
+    padding:0;
+}
+
+#nav ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+    margin:0;
+}
+#nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  border-bottom: 1px solid #888;
+}
+ 
+#nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+}
+ 
+#nav a:hover {
+  background-color: #005f5f;
+}
+ 
+#nav a.active {
+  background-color: #fff;
+  color: #444;
+  cursor: default;
+}
+ 
+
+  #nav li {
+    width: 160px;
+    border-bottom: none;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.4em;
+  }
+ 
+  #nav li {
+    display: inline-block;
+  }
+  
+
+  #sviProizvodi
+  {
+   background-color: #D3D3D3; 
+  }
+  .proizvod
+  {
+    width: 30%;
+    height:400px;
+    float: left;
+    border: 2px double white;
+    border-radius: 30px;
+    border-radius: 10px;
+    background: white;
+    padding:15px;
+    margin:15px;
+  }
+  
+  .proizvod img
+  {
+    
+    width:230px;
+    height:230px;
+    
+  }
+  
+  .proizvod span
+  {
+    float:left;
+    font-size:22px;
+  }
+  
+  #sviProizvodi
+  {
+    text-align:center;
+  }
+  
+.proizvod button
+{
+    float:right;
+    
+    background: #d93434;
+  background-image: -webkit-linear-gradient(top, #d93434, #000000);
+  background-image: -moz-linear-gradient(top, #d93434, #000000);
+  background-image: -ms-linear-gradient(top, #d93434, #000000);
+  background-image: -o-linear-gradient(top, #d93434, #000000);
+  background-image: linear-gradient(to bottom, #d93434, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.proizvod button:hover
+{
+    background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #ff0000);
+  background-image: -moz-linear-gradient(top, #000000, #ff0000);
+  background-image: -ms-linear-gradient(top, #000000, #ff0000);
+  background-image: -o-linear-gradient(top, #000000, #ff0000);
+  background-image: linear-gradient(to bottom, #000000, #ff0000);
+  text-decoration: none;
+}
+
+.dropbtn {
+    background-color: #444;
+    color: white;
+    padding: 11px 25px 12px 25px;
+    
+    font-size: 20px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    height: 50px;
+    
+}
+
+#dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #444;
+    min-width: 400px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+#dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+#dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover #dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+#sveBtn {
+  background: #d93434;
+  background-image: -webkit-linear-gradient(top, #d93434, #000000);
+  background-image: -moz-linear-gradient(top, #d93434, #000000);
+  background-image: -ms-linear-gradient(top, #d93434, #000000);
+  background-image: -o-linear-gradient(top, #d93434, #000000);
+  background-image: linear-gradient(to bottom, #d93434, #000000);
+  -webkit-border-radius: 40;
+  -moz-border-radius: 40;
+  border-radius: 40px;
+  -webkit-box-shadow: 0px 2px 19px #000000;
+  -moz-box-shadow: 0px 2px 19px #000000;
+  box-shadow: 0px 2px 19px #000000;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 60px;
+  padding: 20px 40px 20px 40px;
+  text-decoration: none;
+  margin:50px 0px 50px 200px;
+
+ 
+}
+
+#sveBtn:hover {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #f50808);
+  background-image: -moz-linear-gradient(top, #000000, #f50808);
+  background-image: -ms-linear-gradient(top, #000000, #f50808);
+  background-image: -o-linear-gradient(top, #000000, #f50808);
+  background-image: linear-gradient(to bottom, #000000, #f50808);
+  text-decoration: none;
+
+#prikaziSve
+{
+    background-color: black; 
+}
+
+#pretragaProiz
+{
+    width:50%;
+    padding-top: 50px;
+    border: 2px solid white;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background: black
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+	position: fixed;
+}

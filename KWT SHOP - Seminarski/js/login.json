@@ -1,0 +1,29 @@
+{
+    "users": [ 
+        {
+            "username":"i", 
+            "password":"s"
+        },
+        {
+            "username":"pera@kwt.com", 
+            "password":"pera"
+        },
+        {
+            "username":"zika@kwt.com", 
+            "password":"zika"
+        },
+        {
+            "username":"mika@kwt.com", 
+            "password":"mika"
+        },
+        {
+            "username":"laza@kwt.com", 
+            "password":"laza"
+        },
+        {
+            "username":"jasmina@kwt.com", 
+            "password":"steva"
+        }              
+    ]
+    
+}

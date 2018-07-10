@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+    <proizvod>
+        <vrsta>Tastatura</vrsta>
+        <naziv>APPLE bežična tastatura Magic YU (Siva) - MRMH2CR/A SRB (YU), preko Fn tastera</naziv>
+        <cena>26199</cena>
+        <slika>tastatura1.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Tastatura</vrsta>
+        <naziv>APPLE bežična tastatura Magic US (Siva) - MRMH2Z/A EN (US), preko Fn tastera</naziv>
+        <cena>26199</cena>
+        <slika>tastatura2.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Tastatura</vrsta>
+        <naziv>LOGITECH bežična tastatura CRAFT ADVANCED - 920-008504 preko Fn tastera</naziv>
+        <cena>24999</cena>
+        <slika>tastatura3.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Tastatura</vrsta>
+        <naziv>STEEL SERIES gejmerska tastatura Apex M750 Mehanički tasteri, SteelSeries QX2, NKRO</naziv>
+        <cena>22999</cena>
+        <slika>tastatura4.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        
+        <proizvod>
+        <vrsta>Tastatura</vrsta>
+        <naziv>RAZER mehanička gejmerska tastatura CHROMA V2 - RZ03-02031600-R3M1 Mehanički tasteri, EN (US), 10</naziv>
+        <cena>21599</cena>
+        <slika>tastatura7.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Tastatura</vrsta>
+        <naziv>RAZER gejmerska tastatura BlackWidow Chroma V2 - RZ03-02030100-R3M1 Razer Green, 10, 1000Hz/1ms</naziv>
+        <cena>21599</cena>
+        <slika>tastatura6.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Mis</vrsta>
+        <naziv>HP 3Dconnexion CAD miš - M5C35AA Laserski, 8200dpi, 7 Dugmica sa razlicitim namenama</naziv>
+        <cena>23999</cena>
+        <slika>mis1.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Mis</vrsta>
+        <naziv>LOGITECH bežični gejmerski miš G903 LIGHTSPEED - 910-005085 Optički, PixArt PMW3366, 12000dpi</naziv>
+        <cena>20999</cena>
+        <slika>mis2.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Mis</vrsta>
+        <naziv>RAZER Mamba 16000 Wireless Gaming Mouse - RZ01-01360100-R3G1 Laserski, 16000dpi, 1ms/1000Hz</naziv>
+        <cena>19699</cena>
+        <slika>mis3.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Mis</vrsta>
+        <naziv>MIONIX gejmerski miš NAOS QG (Sivi) - MNX-01-26003-G Optički, PixArt PMW3360, 12000dpi, 7</naziv>
+        <cena>18999</cena>
+        <slika>mis4.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Mis</vrsta>
+        <naziv>LOGITECH G900 Chaos Spectrum gejmerski miš - 910-004558 Optički, PixArt PMW3366, 12000dpi</naziv>
+        <cena>16499</cena>
+        <slika>mis5.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+        <proizvod>
+        <vrsta>Mis</vrsta>
+        <naziv>RAZER bežični gejmerski miš LANCEHEAD (Crni) - RZ01-02120100-R3G1 Laserski, 16000dpi, 1ms/1000Hz</naziv>
+        <cena>15999</cena>
+        <slika>mis6.png</slika>
+        <opis>Opis predmeta.</opis>
+        </proizvod>
+        
+     <proizvod>
+        <vrsta>Mis</vrsta>
+        <naziv>LOGITECH bežični miš MX Master (Crni) - 910-004362 Laserski, 2.4GHz, 1600dpi, Profesionalan</naziv>
+        <cena>13999</cena>
+        <slika>mis7.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+
+     <proizvod>
+        <vrsta>Podloga</vrsta>
+        <naziv>STEEL SERIES gejmerska podloga QcK Prism Gejmerska, Plastika i tkanina, 8.68mm</naziv>
+        <cena>9999</cena>
+        <slika>podloga1.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     <proizvod>
+        <vrsta>Podloga</vrsta>
+        <naziv>RAZER gejmerska podloga Firefly Hard Edition - RZ02-01350100-R3M1 Gejmerska, Plastika, 355 x 255 mm</naziv>
+        <cena>8899</cena>
+        <slika>podloga2.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     <proizvod>
+        <vrsta>Podloga</vrsta>
+        <naziv>MIONIX gejmerska podloga za miša ALIOTH XXL - MNX-04-25008-G Gejmerska, Plastika</naziv>
+        <cena>6999</cena>
+        <slika>podloga3.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     <proizvod>
+        <vrsta>Podloga</vrsta>
+        <naziv>MIONIX gejmerska podloga za miša ALIOTH XL - MNX-04-25007-G Gejmerska, Tkanina</naziv>
+        <cena>5599</cena>
+        <slika>podloga4.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     <proizvod>
+        <vrsta>Podloga</vrsta>
+        <naziv>MIONIX gejmerska podloga za miša SARGAS XLL - MNX-04-25004-G Gejmerska, Tkanina, 2.5mm</naziv>
+        <cena>5499</cena>
+        <slika>podloga5.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     <proizvod>
+        <vrsta>Podloga</vrsta>
+        <naziv>STEEL SERIES podloga za miša QcK XXl Gejmerska, Tkanina, 4mm, Vrlo povoljna</naziv>
+        <cena>5299</cena>
+        <slika>podloga6.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     <proizvod>
+        <vrsta>Podloga</vrsta>
+        <naziv>RAZER podloga za miša Goliathus Extended Control - RZ02-01070800-R3M1 Gejmerska, Tkanina</naziv>
+        <cena>5099</cena>
+        <slika>podloga7.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Zvucnici</vrsta>
+        <naziv>JBL portabl bluetooth zvučnik BOOMBOX (Crna) 60W, 50 Hz - 20kHz - besprekoran zvuk</naziv>
+        <cena>55399</cena>
+        <slika>zvucnici1.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Zvucnici</vrsta>
+        <naziv>JBL Control X Wireless (Bela) Stereo, 30W, 62 Hz - 20kHz, Odlican materijal (Drvo)</naziv>
+        <cena>51499</cena>
+        <slika>zvucnici2.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Zvucnici</vrsta>
+        <naziv>LOGITECH Z906 5.1 zvučnici - 980-000468 5.1, 500W, 35Hz-20KHz, Drvo (woofer), plastika (sateliti)</naziv>
+        <cena>39999</cena>
+        <slika>zvucnici3.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Zvucnici</vrsta>
+        <naziv>HARMAN KARDON 2.1 bežični zvučnici - SOUNDSTICKSBTAM 2.1, 40W, 44Hz-20KHz, Strujno</naziv>
+        <cena>36599</cena>
+        <slika>zvucnici4.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Zvucnici</vrsta>
+        <naziv>PANASONIC SC-ALL05EG-K 20W, Strujno ili baterije, garantovanih 8.5 sati ponekad i vise</naziv>
+        <cena>31999</cena>
+        <slika>zvucnici5.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Zvucnici</vrsta>
+        <naziv>BEATS portabl zvučnik Pill+ (Sivi - Asphalt Grey) - MQ312ZM/A Punjiva baterija, do 12 sati</naziv>
+        <cena>29399</cena>
+        <slika>zvucnici6.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Zvucnici</vrsta>
+        <naziv>ENERGY SISTEM zvučnik TOWER 8 G2 (Braon) - 446759 120W, 20Hz-20KHz, Drvo, Strujno</naziv>
+        <cena>28990</cena>
+        <slika>zvucnici7.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Zvucnici</vrsta>
+        <naziv>GENIUS SW-HF5.1 6000 zvučnici (Maple Wood) 5.1, 200W, 40Hz-20KHz, 80dB, za svaku zurku</naziv>
+        <cena>24999</cena>
+        <slika>zvucnici8.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Sluske</vrsta>
+        <naziv>SONY slušalice MDR-Z1R (Crne) - MDRZ1R.WW2 Traka preko glave, Stereo, 70mm</naziv>
+        <cena>299999</cena>
+        <slika>sluske1.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Sluske</vrsta>
+        <naziv>BEATS bežične slušalice Studio3 Wireless (Mat crne) - MQ562ZM/A Standardne, Stereo, Bluetooth i 3.5mm</naziv>
+        <cena>49999</cena>
+        <slika>sluske2.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Sluske</vrsta>
+        <naziv>SENNHEISER slušalice MOMENTUM G (M2) (Crne) Traka preko glave, Stereo, 16Hz - 22KHz</naziv>
+        <cena>44599</cena>
+        <slika>sluske3.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Sluske</vrsta>
+        <naziv>SENNHEISER gejmerske slušalice GPS 600 - 507263 Stereo, 10Hz - 30kHz, 28 Ω, za prave Gejmere</naziv>
+        <cena>29899</cena>
+        <slika>sluske4.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod> 
+     
+     <proizvod>
+        <vrsta>Sluske</vrsta>
+        <naziv>LOGITECH Wireless Gaming Headset G933 Artemis Spectrum Virtual 7.1, 40mm, 20Hz - 20kHz, 107dB</naziv>
+        <cena>26499</cena>
+        <slika>sluske5.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Sluske</vrsta>
+        <naziv>SENNHEISER HD 280 PRO (Crne) Traka preko glave, Stereo, 8Hz - 25KHz, 64 Ω</naziv>
+        <cena>19199</cena>
+        <slika>sluske7.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Sluske</vrsta>
+        <naziv>SENNHEISER Bežične slušalice sa mikrofonom HD 4.40BT Standardne, Stereo, 18Hz - 22kHz, 18 Ω</naziv>
+        <cena>17999</cena>
+        <slika>sluske8.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Sluske</vrsta>
+        <naziv>STEEL SERIES gejmerske slušalice Arctis 5 (Crne) Virtual 7.1, 40mm, Neodimijum, 20Hz - 22kHz</naziv>
+        <cena>16999</cena>
+        <slika>sluske9.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Sluske</vrsta>
+        <naziv>STEEL SERIES gejmerske slušalice ARCTIS 5 (Bele) Virtual 7.1, 40mm, Neodimijum, 20Hz - 22kHz</naziv>
+        <cena>16999</cena>
+        <slika>sluske10.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>WENGER ranac PEGASUS 17" (Crna/siva) - 600639512512521512552512 do 17", </naziv>
+        <cena>11399</cena>
+        <slika>ranac11.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>VICTORINOX VX Sport Trooper Ranac 16" (Crna) - 3110530112515125213412312 do 16"</naziv>
+        <cena>11499</cena>
+        <slika>ranac10.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>DELL Venture Ranac, do 15.6", Siva - 14236242342323 do 15.6", puno prostora za sve prenosive uredjaje</naziv>
+        <cena>12999</cena>
+        <slika>ranac9.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>HP Powerup Backpack - 1JJ05AA - Ranac sa punjačem, do 17.3"- 2452524232323</naziv>
+        <cena>15999</cena>
+        <slika>ranac8.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>HP Powerup Backpack - W7Q03AA - Ranac sa punjačem, do 17.3" - 124356787545343</naziv>
+        <cena>15999</cena>
+        <slika>ranac7.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>VICTORINOX Altmont 3.0 Deluxe Vertical Zip Laptop ranac 17" (Crna) - 32388201 do 17"</naziv>
+        <cena>15999</cena>
+        <slika>ranac6.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>DELL Ranac Alienware Vindicator za laptop do 17" (Crna) - NOT10242ASF246202382080 do 17"</naziv>
+        <cena>16999</cena>
+        <slika>ranac5.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>VICTORINOX Altmont 3.0 Deluxe Dual-Compartment Laptop ranac 17" (Crna) - 32388101 do 17"</naziv>
+        <cena>18499</cena>
+        <slika>ranac4.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>VICTORINOX Altmont 3.0 Deluxe Laptop ranac 17" (Crna) - 32388001A14242524 do 17"</naziv>
+        <cena>19999</cena>
+        <slika>ranac3.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>THULE Ranac Crossover Carry-on za laptop do 15” - TCRU115A2452323233G do 15"</naziv>
+        <cena>29999</cena>
+        <slika>ranac2.png</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     <proizvod>
+        <vrsta>Ranac</vrsta>
+        <naziv>VICTORINOX Architecture Urban Rath Slim Ranac 17" (Siva) - 323257012525SDSGSDADASD do 17"</naziv>
+        <cena>34999</cena>
+        <slika>ranac1.PNG</slika>
+        <opis>Opis predmeta.</opis>
+    </proizvod>
+     
+     
+
+</shop>
